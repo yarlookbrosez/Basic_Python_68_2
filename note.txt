@@ -11,7 +11,7 @@ git config --global user.name "you name"
 git config --global user.email "your email"
 
 git add . 
-git conmit -m 
+git commit -m (your massage)
 git push origin main 
 
 git pull origin main 
